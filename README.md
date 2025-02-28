@@ -20,5 +20,6 @@ Here are some of the technologies I work with:
 
 ## 📫 How to reach me
 
-- LinkedIn: [Eduardo Prado](https://www.linkedin.com/in/eduardo-prado-morais/)
-- GitHub: [eduardoprado](https://github.com/eduardoprado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-prado-morais/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoprado)
+
